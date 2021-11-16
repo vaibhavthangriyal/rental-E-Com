@@ -45,7 +45,7 @@
     "angular-pipes": "^8.0.0",
     "angular-tree-component": "^7.2.0",
     "animate.css": "^3.7.0",
-    "aws-sdk": "^2.518.0",
+    "aws-sdk": "^2.814.0",
     "axios": "^0.19.0",
     "bcrypt": "^3.0.6",
     "bcryptjs": "^2.4.3",
